@@ -1,5 +1,5 @@
 {
-    "name": "My Devcontainer",
+    "name": "ga2-cd9e85",
     "image": "mcr.microsoft.com/devcontainers/python:3.11",
     "postCreateCommand": "pip install -r requirements.txt",
     "extensions": [
